@@ -1,1 +1,1 @@
-# Gesti-n-de-usuarios
+los lenguajes de programacion utilizados en este programa son "html" "js" "css" es una practica basica sobre el registro de usuarios,creado por Nicolas y Itzel
